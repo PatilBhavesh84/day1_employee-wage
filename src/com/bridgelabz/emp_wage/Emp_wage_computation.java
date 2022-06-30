@@ -17,6 +17,5 @@ public class Emp_wage_computation {
         }
         int wage = workingHours * WAGE_PER_HR;
         System.out.println("Employee Daily Wage is " + wage);
-
 }
 }
